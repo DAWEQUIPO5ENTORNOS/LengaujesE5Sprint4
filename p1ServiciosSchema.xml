@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="Tienda_pokemon">
+      <oneOrMore>
+        <choice>
+          <element name="Pokebolas">
+            <ref name="nombre"/>
+            <ref name="precio"/>
+          </element>
+          <element name="Trafico_pokemones">
+            <ref name="nombre"/>
+            <ref name="precio"/>
+            <element name="tipo">
+              <data type="NCName"/>
+            </element>
+          </element>
+          <element name="titulo">
+            <text/>
+          </element>
+        </choice>
+      </oneOrMore>
+      <oneOrMore>
+        <element name="Pocion">
+          <ref name="nombre"/>
+          <ref name="precio"/>
+          <element name="curacion">
+            <data type="NMTOKEN"/>
+          </element>
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+  <define name="nombre">
+    <element name="nombre">
+      <data type="NCName"/>
+    </element>
+  </define>
+  <define name="precio">
+    <element name="precio">
+      <data type="decimal"/>
+    </element>
+  </define>
+</grammar>
