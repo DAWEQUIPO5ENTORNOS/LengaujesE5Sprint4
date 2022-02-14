@@ -8,7 +8,7 @@ mostrar el último servicio de la lista
 
 mostrar sólo el título y el precio de los servicios de la categoría que elijas
 
-//pocion/precio
+//Pokebolas/nombre | //Pokebolas/precio
 
 Haz 3 consultas más sobre lo que quieras
 
