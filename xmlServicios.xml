@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tienda_pokemon>
+<titulo>Servicio1: venta de pokebolas</titulo>
+<Pokebolas>
+    <nombre>pokeball</nombre>
+    <precio>2</precio>
+</Pokebolas>
+
+<Pokebolas>
+    <nombre>superball</nombre>
+    <precio>5</precio>
+
+</Pokebolas>
+
+<Pokebolas>
+    <nombre>Ultraball</nombre>
+    <precio>7.45</precio>
+</Pokebolas>
+
+<titulo>Venta de pokemones</titulo>
+<Trafico_pokemones>
+    <nombre>Charmander</nombre>
+    <precio>100</precio>
+    <tipo>
+   Fuego
+   </tipo>
+</Trafico_pokemones>
+
+<Trafico_pokemones>
+    <nombre>Pikachu</nombre>
+    <precio>80</precio>
+    <tipo>
+    Eléctrico  
+    </tipo>
+</Trafico_pokemones>
+
+<Trafico_pokemones>
+    <nombre>Blastoise</nombre>
+    <precio>1500</precio>
+    <tipo>
+    Agua
+    </tipo>
+</Trafico_pokemones>
+
+<Trafico_pokemones>
+    <nombre>Dragonite</nombre>
+    <precio>5000</precio>
+    <tipo>
+    Dragón
+    </tipo>
+</Trafico_pokemones>
+
+<titulo>Venta de pociones</titulo>
+<Pocion>
+    <nombre>Poción</nombre>
+    <precio>7.95</precio>
+    <curacion>
+    20HP
+   </curacion>
+</Pocion>
+
+<Pocion>
+    <nombre>Superpoción</nombre>
+    <precio>15</precio>
+    <curacion>
+    50HP
+   </curacion>
+</Pocion>
+
+<Pocion>
+    <nombre>Hiperpoción</nombre>
+    <precio>50</precio>
+    <curacion>
+    200HP
+   </curacion>
+</Pocion>
+
+
+
+</Tienda_pokemon>
