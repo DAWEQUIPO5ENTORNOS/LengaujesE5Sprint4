@@ -1,0 +1,58 @@
+<MENU_RESTAURANTE>
+  <ENTRANTES>
+    <name>Ensalada césar</name>
+    <price>6.45</price>
+  </ENTRANTES>
+  <ENTRANTES>
+    <name>Sopa de picadillo</name>
+    <price>6.95</price>
+  </ENTRANTES>
+  <ENTRANTES>
+    <name>Huevos de codorniz con jamón</name>
+    <price>7.45</price>
+  </ENTRANTES>
+  <PLATOS>
+    <name>Solomillo a la pimienta</name>
+    <price>3.45</price>
+    <ingrediente>Solomillo.</ingrediente>
+    <ingrediente>Nata.</ingrediente>
+    <ingrediente>Pimienta.</ingrediente>
+  </PLATOS>
+  <PLATOS>
+    <name>Macarrones con tomate</name>
+    <price>11.95</price>
+    <ingrediente>Macarrones.</ingrediente>
+    <ingrediente>Tomate frito.</ingrediente>
+    <ingrediente>Orégano.</ingrediente>
+  </PLATOS>
+  <PLATOS>
+    <name>Milanesa de pollo</name>
+    <price>14.45</price>
+    <ingrediente>Pollo.</ingrediente>
+    <ingrediente>Pan rallado.</ingrediente>
+    <ingrediente>Huevo.</ingrediente>
+    <ingrediente>Queso y jamón de york.</ingrediente>
+  </PLATOS>
+  <PLATOS>
+    <name>Pollo al curry</name>
+    <price>13.95</price>
+    <ingrediente>Pollo.</ingrediente>
+    <ingrediente>Nata.</ingrediente>
+    <ingrediente>Especias de curry.</ingrediente>
+  </PLATOS>
+  <POSTRE>
+    <name>Helado frito</name>
+    <price>7.95</price>
+    <description>Delicioso helado con una capa frita por fuera dándole un toque crugiente.</description>
+  </POSTRE>
+  <POSTRE>
+    <name>Coulant</name>
+    <price>8.75</price>
+    <description>Coulant de nata con una capa de chocolate blanco o negro a elegir.</description>
+  </POSTRE>
+  <POSTRE>
+    <name>Macedonia tropical</name>
+    <price>7.95</price>
+    <description>Macedonia de frutas tropicales exóticas como la famosa pitalla (fruta del dragón)</description>
+  </POSTRE>
+</MENU_RESTAURANTE>

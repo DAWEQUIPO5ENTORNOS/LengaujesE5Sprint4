@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tienda_pokemon>
+
+<Pokebolas>
+    <name>pokeball</name>
+    <price>2€</price>
+</Pokebolas>
+
+<Pokebolas>
+    <name>superball</name>
+    <price>5€</price>
+
+</Pokebolas>
+
+<Pokebolas>
+    <name>Ultraball</name>
+    <price>7.45€</price>
+</Pokebolas>
+
+<Trafico_pokemones>
+    <name>Charmander</name>
+    <price>100€</price>
+    <curacion>
+   Fuego
+   </curacion>
+</Trafico_pokemones>
+
+<Trafico_pokemones>
+    <name>Pikachu</name>
+    <price>80€</price>
+    <curacion>
+    Eléctrico  
+    </curacion>
+</Trafico_pokemones>
+
+<Trafico_pokemones>
+    <name>Blastoise</name>
+    <price>1500€</price>
+    <curacion>
+    Agua
+    </curacion>
+</Trafico_pokemones>
+
+<Trafico_pokemones>
+    <name>Dragonite</name>
+    <price>5000€</price>
+    <curacion>
+    Dragón
+    </curacion>
+</Trafico_pokemones>
+
+<Pocion>
+    <name>Poción</name>
+    <price>7.95€</price>
+    <curacion>
+    20HP
+   </curacion>
+</Pocion>
+
+<Pocion>
+    <name>Superpoción</name>
+    <price>15€</price>
+    <curacion>
+    50HP
+   </curacion>
+</Pocion>
+
+<Pocion>
+    <name>Hiperpoción</name>
+    <price>50€</price>
+    <curacion>
+    200HP
+   </curacion>
+</Pocion>
+
+
+
+</Tienda_pokemon>
