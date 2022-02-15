@@ -1,31 +1,31 @@
 <MENU_RESTAURANTE>
-  <ENTRANTES>
-    <name>Ensalada césar</name>
+  <ENTRANTES category="vegano">
+    <name>Ensalada</name>
     <price>6.45</price>
   </ENTRANTES>
-  <ENTRANTES>
+  <ENTRANTES category="no_vegano">
     <name>Sopa de picadillo</name>
     <price>6.95</price>
   </ENTRANTES>
-  <ENTRANTES>
+  <ENTRANTES category="no_vegano">
     <name>Huevos de codorniz con jamón</name>
     <price>7.45</price>
   </ENTRANTES>
-  <PLATOS>
+  <PLATOS  category="no_vegano">
     <name>Solomillo a la pimienta</name>
     <price>3.45</price>
     <ingrediente>Solomillo.</ingrediente>
     <ingrediente>Nata.</ingrediente>
     <ingrediente>Pimienta.</ingrediente>
   </PLATOS>
-  <PLATOS>
+  <PLATOS category="vegano">
     <name>Macarrones con tomate</name>
     <price>11.95</price>
     <ingrediente>Macarrones.</ingrediente>
     <ingrediente>Tomate frito.</ingrediente>
     <ingrediente>Orégano.</ingrediente>
   </PLATOS>
-  <PLATOS>
+  <PLATOS category="no_vegano">
     <name>Milanesa de pollo</name>
     <price>14.45</price>
     <ingrediente>Pollo.</ingrediente>
@@ -33,24 +33,24 @@
     <ingrediente>Huevo.</ingrediente>
     <ingrediente>Queso y jamón de york.</ingrediente>
   </PLATOS>
-  <PLATOS>
+  <PLATOS category="no_vegano">
     <name>Pollo al curry</name>
     <price>13.95</price>
     <ingrediente>Pollo.</ingrediente>
     <ingrediente>Nata.</ingrediente>
     <ingrediente>Especias de curry.</ingrediente>
   </PLATOS>
-  <POSTRE>
+  <POSTRE category="no_vegano">
     <name>Helado frito</name>
     <price>7.95</price>
     <description>Delicioso helado con una capa frita por fuera dándole un toque crugiente.</description>
   </POSTRE>
-  <POSTRE>
+  <POSTRE category="no_vegano">
     <name>Coulant</name>
     <price>8.75</price>
     <description>Coulant de nata con una capa de chocolate blanco o negro a elegir.</description>
   </POSTRE>
-  <POSTRE>
+  <POSTRE category="vegano">
     <name>Macedonia tropical</name>
     <price>7.95</price>
     <description>Macedonia de frutas tropicales exóticas como la famosa pitalla (fruta del dragón)</description>
