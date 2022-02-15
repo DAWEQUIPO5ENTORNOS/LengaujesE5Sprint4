@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Tienda_pokemon>
 <titulo>Servicio1: venta de pokebolas</titulo>
-<Pokebolas>
+<Pokebolas category="objeto">
     <nombre>pokeball</nombre>
     <precio>2</precio>
 </Pokebolas>
 
-<Pokebolas>
+<Pokebolas category="objeto">
     <nombre>superball</nombre>
     <precio>5</precio>
 
 </Pokebolas>
 
-<Pokebolas>
+<Pokebolas category="objeto">
     <nombre>Ultraball</nombre>
     <precio>7.45</precio>
 </Pokebolas>
 
 <titulo>Venta de pokemones</titulo>
-<Trafico_pokemones>
+<Trafico_pokemones category="pokemon">
     <nombre>Charmander</nombre>
     <precio>100</precio>
     <tipo>
@@ -26,7 +26,7 @@
    </tipo>
 </Trafico_pokemones>
 
-<Trafico_pokemones>
+<Trafico_pokemones category="pokemon">
     <nombre>Pikachu</nombre>
     <precio>80</precio>
     <tipo>
@@ -34,7 +34,7 @@
     </tipo>
 </Trafico_pokemones>
 
-<Trafico_pokemones>
+<Trafico_pokemones category="pokemon">
     <nombre>Blastoise</nombre>
     <precio>1500</precio>
     <tipo>
@@ -42,7 +42,7 @@
     </tipo>
 </Trafico_pokemones>
 
-<Trafico_pokemones>
+<Trafico_pokemones category="pokemon">
     <nombre>Dragonite</nombre>
     <precio>5000</precio>
     <tipo>
@@ -51,7 +51,7 @@
 </Trafico_pokemones>
 
 <titulo>Venta de pociones</titulo>
-<Pocion>
+<Pocion category="objeto">
     <nombre>Poción</nombre>
     <precio>7.95</precio>
     <curacion>
@@ -59,7 +59,7 @@
    </curacion>
 </Pocion>
 
-<Pocion>
+<Pocion category="objeto">
     <nombre>Superpoción</nombre>
     <precio>15</precio>
     <curacion>
@@ -67,7 +67,7 @@
    </curacion>
 </Pocion>
 
-<Pocion>
+<Pocion category="objeto">
     <nombre>Hiperpoción</nombre>
     <precio>50</precio>
     <curacion>
